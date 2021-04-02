@@ -22,7 +22,6 @@ export const SongDetails = (props) => {
   const translate = useTranslate()
   const { record } = props
   const data = {
-    path: <TextField record={record} source="path" />,
     album: <TextField record={record} source="album" />,
     discSubtitle: <TextField record={record} source="discSubtitle" />,
     albumArtist: <TextField record={record} source="albumArtist" />,
