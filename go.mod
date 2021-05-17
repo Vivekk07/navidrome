@@ -21,7 +21,7 @@ require (
 	github.com/go-chi/cors v1.1.1
 	github.com/go-chi/httprate v0.4.0
 	github.com/go-chi/jwtauth v4.0.4+incompatible
-	github.com/golangci/golangci-lint v1.38.0
+	github.com/golangci/golangci-lint v1.40.1
 	github.com/google/uuid v1.2.0
 	github.com/google/wire v0.5.0
 	github.com/karrick/godirwalk v1.16.1
@@ -45,11 +45,8 @@ require (
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
-	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
-	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
-	golang.org/x/text v0.3.5 // indirect
-	golang.org/x/tools v0.1.0
-	google.golang.org/protobuf v1.25.0 // indirect
+	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
+	golang.org/x/tools v0.1.2-0.20210512205948-8287d5da45e4
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
 	gopkg.in/ini.v1 v1.57.0 // indirect
