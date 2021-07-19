@@ -45,10 +45,9 @@ require (
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
-	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
-	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
+	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 	golang.org/x/text v0.3.5 // indirect
-	golang.org/x/tools v0.1.0
+	golang.org/x/tools v0.1.5
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
