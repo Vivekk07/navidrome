@@ -21,7 +21,7 @@ require (
 	github.com/go-chi/cors v1.1.1
 	github.com/go-chi/httprate v0.4.0
 	github.com/go-chi/jwtauth v4.0.4+incompatible
-	github.com/golangci/golangci-lint v1.38.0
+	github.com/golangci/golangci-lint v1.42.1
 	github.com/google/uuid v1.2.0
 	github.com/google/wire v0.5.0
 	github.com/karrick/godirwalk v1.16.1
@@ -29,30 +29,21 @@ require (
 	github.com/kr/pretty v0.2.1
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/microcosm-cc/bluemonday v1.0.4
-	github.com/mitchellh/mapstructure v1.3.2 // indirect
 	github.com/oklog/run v1.1.0
-	github.com/onsi/ginkgo v1.15.2
-	github.com/onsi/gomega v1.11.0
-	github.com/pelletier/go-toml v1.8.0 // indirect
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.13.0
 	github.com/pressly/goose v2.7.0+incompatible
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/afero v1.3.1 // indirect
-	github.com/spf13/cast v1.3.1 // indirect
-	github.com/spf13/cobra v1.1.3
-	github.com/spf13/jwalterweatherman v1.1.0 // indirect
-	github.com/spf13/viper v1.7.1
+	github.com/spf13/cobra v1.2.1
+	github.com/spf13/viper v1.8.1
 	github.com/unrolled/secure v1.0.8
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
-	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
-	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
-	golang.org/x/text v0.3.5 // indirect
-	golang.org/x/tools v0.1.0
-	google.golang.org/protobuf v1.25.0 // indirect
+	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781
+	golang.org/x/tools v0.1.5
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
-	gopkg.in/ini.v1 v1.57.0 // indirect
 )
 
 replace github.com/dhowden/tag => github.com/wader/tag v0.0.0-20200426234345-d072771f6a51
